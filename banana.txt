@@ -1,0 +1,2 @@
+
+echo \source /Users/$USER/.nvm/nvm.sh >> ~/.bash_profile
